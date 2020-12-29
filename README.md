@@ -38,7 +38,7 @@ We will be using the `pandas` library to accomplish:
     │
     
 ## Set up
-- Download the source data [here](#https://www.kaggle.com/rounakbanik/the-movies-dataset).
+- Download the source data [here](https://www.kaggle.com/rounakbanik/the-movies-dataset).
 - Run the jupyter notebooks to run through methodology and thought process.
 
 
